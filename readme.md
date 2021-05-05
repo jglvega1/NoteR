@@ -17,8 +17,12 @@ Its a reader of PDFs that allows you to take notes
 ### CRUD Notes
 
 - [ ] Create notes
+	- [ ] Save them as Markdown files
 - [ ] Read Notes
+	- [ ] Open Markdown files
+	- [ ] Render Markdown files
 - [ ] Update Notes
+	- [ ] Rewrite Markdown file
 - [ ] Delete Notes
 
 ## Features
@@ -32,6 +36,7 @@ Its a reader of PDFs that allows you to take notes
 	- [ ] Inserción de links
 	- [ ] Rich Text Editor
 	- [ ] Search function
+	- [ ] Version system
 - [ ] Evernote integration
 
 ## Technical Details
